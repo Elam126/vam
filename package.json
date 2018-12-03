@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Elam126/vam#readme",
   "dependencies": {
-    "express": "^4.15.3"
+    "express": "^4.15.3",
+    "mongoose": "^5.3.14"
   }
 }
