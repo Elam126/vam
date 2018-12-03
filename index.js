@@ -2,7 +2,7 @@ const express = require('express');
 const app = express();
 
 app.get('/',(req,res) => {
-    res.send('<h1>Venzo Consultancy Services LLP</h1>');
+    res.send('<h2>Venzo Consultancy Services LLP</h2>');
 });
 
 app.listen(8080, () => {
